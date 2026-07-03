@@ -17,9 +17,9 @@ Nim programming language was created by Andreas Rumpf; and, as I understand it w
 
 > echo "Hello, world!"  
 
-### 
+### Maths   
 
-echo 3 + 3 # 6  
+echo 3 + 3 # 6    
 echo 3 - 3 # 0  
 echo 3 * 3 # 9  
 echo 3 / 3 # 1  
