@@ -7,7 +7,7 @@
 
 ## Introduction  
 
-Nim programming language was created by , as I understand it was originally called: Nimrod.  
+Nim programming language was created by Andreas Rumpf; and, as I understand it was originally called: Nimrod.  
 
 -----
 
