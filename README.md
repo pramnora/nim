@@ -41,6 +41,9 @@ Wikipedia article
 
 ### YouTube Tutorials
 
+Nim in 100 Seconds - (Channel: Firebase)  
+- https://www.youtube.com/watch?v=WHyOHQ_GkNo&t=153s  
+
 Introduction to Nim - Nim Tutorial (Part 1) - (Channel: Steve's teacher)  
 - https://www.youtube.com/watch?v=hwzkIlNfGHI&t=86s  
 
