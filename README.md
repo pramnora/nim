@@ -42,3 +42,9 @@ Wikipedia article
 
 Introduction to Nim - Nim Tutorial (Part 1) - (Channel: Steve's teacher)  
 - https://www.youtube.com/watch?v=hwzkIlNfGHI&t=86s  
+
+King of the "New" Programming Languages? - (Channel: Code to the moon)  
+- https://www.youtube.com/watch?v=8V1TI16lHNs  
+
+
+- https://www.youtube.com/watch?v=8V1TI16lHNs  
