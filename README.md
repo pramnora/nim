@@ -11,6 +11,21 @@ Nim programming language was created by Andreas Rumpf; and, as I understand it w
 
 -----
 
+## Example codes  
+
+### Hello, world!   
+
+> echo "Hello, world!"  
+
+### 
+
+echo 3 + 3 # 6  
+echo 3 - 3 # 0  
+echo 3 * 3 # 9  
+echo 3 / 3 # 1  
+
+-----
+
 ## Links  
 
 -----
